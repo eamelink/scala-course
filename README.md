@@ -1,5 +1,5 @@
-1 Day Scala introduction materials
-==================================
+1 Day Scala & Play 2 introduction materials
+===========================================
 
 These are the materials for a one-day Scala and Play 2 introduction for people with a Java and Play 1 background. They probably don't make sense without the accompanying talk.
 
@@ -7,7 +7,14 @@ Documents
 ---------
 
  * [SBT Installation Instructions](scala-course/blob/master/documents/installing-sbt.md)
- * [Scala Labs](scala-course/blob/master/documents/getting-started-scala-labs.md)
+ * [Scala IDE Installation Instructions](scala-course/blob/master/documents/installing-scala-ide.md)
+
+Exercises
+---------
+
+ * [Scala Labs](scala-course/blob/master/documents/hands-on-scala-labs.md)
+ * [Play 2](scala-course/blob/master/documents/hands-on-play-2.md)
+
 Recommended further readings
 ----------------------------
 
