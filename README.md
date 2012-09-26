@@ -8,6 +8,7 @@ Documents
 
  * [SBT Installation Instructions](scala-course/blob/master/documents/installing-sbt.md)
  * [Scala IDE Installation Instructions](scala-course/blob/master/documents/installing-scala-ide.md)
+ * [Running the Hello World app](scala-course/blob/master/documents/running-hello-world.md)
 
 Exercises
 ---------

@@ -18,6 +18,7 @@ Getting Started
  * Run `eclipsify` to create an Eclipse project, and import into Eclipse
  * Optional: Make Eclipse automatically refresh: Preferences -> General -> Workspace -> Refresh using native hooks or polling
  * Run `~run` to run the application, and recompile automatically when the sources change
+ * Check [localhost port 9000](http://localhost:9000) for your Play app!
 
 Exercise
 --------
